@@ -1,0 +1,6 @@
+[2021-12-30T17:07:07.327] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\Lu\Desktop\新建文件夹\vue+koa\manager-server\app.js:32:3
+    at dispatch (C:\Users\Lu\Desktop\新建文件夹\vue+koa\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (C:\Users\Lu\Desktop\新建文件夹\vue+koa\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\Lu\Desktop\新建文件夹\vue+koa\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at serve (C:\Users\Lu\Desktop\新建文件夹\vue+koa\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:15)
